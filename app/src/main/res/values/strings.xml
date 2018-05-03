@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Next Drink In</string>
+    <string name="enter_your_age">Age</string>
+    <string name="plates">NSW Driving Plates</string>
+    <string name="Age">Age</string>
+    <string-array name="driving_plates_array">
+        <item>Learner</item>
+        <item>Probation</item>
+        <item>Full</item>
+    </string-array>
+    <string-array name="drink_types_array">
+        <item>Beer</item>
+        <item>Wine</item>
+        <item>Fortified Wine</item>
+        <item>Spirits</item>
+        <item>Other Drinks</item>
+    </string-array>
+    <string-array name="beer_type_list">
+        <item>Pilsner</item>
+        <item>Lager</item>
+        <item>Porter</item>
+        <item>Brown ale</item>
+        <item>IPA</item>
+        <item>Stout</item>
+    </string-array>
+    <string-array name="wine_type_list">
+        <item>Sparkling wine</item>
+        <item>Table wine</item>
+        <item>Retsina</item>
+        <item>Dry white</item>
+        <item>Cabernet</item>
+        <item>Barley wine</item>
+    </string-array>
+    <string-array name="fortified_wine_type_list">
+        <item>Sherry</item>
+        <item>Marsala wine</item>
+        <item>Madeira wine</item>
+        <item>Vermouth</item>
+        <item>Port wine</item>
+        <item>Barley wine</item>
+    </string-array>
+    <string-array name="spirits_type_list">
+        <item>Vodka/Whiskey/Rum</item>
+        <item>Cask strength whiskey</item>
+        <item>Absinthe</item>
+        <item>Neutral grain spirits</item>
+        <item>Rectified spirits</item>
+        <item>Absolute alcohol</item>
+    </string-array>
+    <string-array name="other_drinks_type_list">
+        <item>Alcopops</item>
+        <item>Wine Breezer/Cooler</item>
+        <item>Cider</item>
+    </string-array>
+</resources>
